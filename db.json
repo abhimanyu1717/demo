@@ -6,8 +6,8 @@
     {"id":4, "empName": "abhinow", "empId": "14", "empProject": "project1", "comment": "fffa" }
 ],
   "login": [
-	{"name": "abhi", "password": "abhi12", "role": "employee"},
-    {"name": "nam", "password":  "nam12", "role":"manager"}
-	]
+	{"id":1, "name": "abhi", "password": "abhi12", "role": "employee"},
+    {"id":2, "name": "nam", "password":  "nam12", "role":"manager"}
+  ]
   
 }
