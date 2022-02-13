@@ -3,7 +3,8 @@
     {"id":1,"empName": "abhi updated", "empId": "11", "empProject": "project1", "comment": "dff", "managerComment": "manager feed back"},
     {"id":2, "empName": "abhi2", "empId": "12", "empProject": "project2", "comment": "dfffaaf", "managerComment": "manager feed back2"},
     {"id":3, "empName": "abhi3", "empId": "13", "empProject": "project3", "comment": "fasff" },
-    {"id":4, "empName": "abhinow", "empId": "14", "empProject": "project1", "comment": "fffa" }
+    {"id":4, "empName": "abhinow", "empId": "14", "empProject": "project1", "comment": "fffa" },
+    {"id":4, "empName": "namrata", "empId": "15", "empProject": "project1", "comment": "fffa" }
 ],
   "login": [
 	{"id":1, "name": "abhi", "password": "abhi12", "role": "employee"},
